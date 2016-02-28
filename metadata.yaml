@@ -1,0 +1,40 @@
+_repo: Das-Kathchen-von-Heilbronn-Oder-die-Feuerprobe_6646
+creator:
+  author:
+    agent_name: Kleist, Heinrich von
+    aliases:
+    - Kleist, H. V. (Heinrich von)
+    - Von Kleist, Heinrich
+    - Kleist, Bernd Heinrich Wilhelm von
+    birthdate: 1777
+    deathdate: 1811
+    gutenberg_agent_id: '2127'
+    url: http://www.gutenberg.org/2009/agents/2127
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_von_Kleist
+description: "Das Käthchen von Heilbronn oder Die Feuerprobe (Katie of Heilbronn or\
+  \ The Trial by Fire) (1807–1808) is a \"great historical knightly play\" (German:\
+  \ ein großes historisches Ritterschauspiel) in five acts by the German playwright\
+  \ Heinrich von Kleist. The action of the drama takes place in Swabia during the\
+  \ Middle Ages.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6646'
+  wikidata: Q316826
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knights and knighthood -- Drama'
+- !lcsh 'Germany -- Drama'
+- !lcc 'PT'
+title: 'Das Käthchen von Heilbronn: Oder, die Feuerprobe'
+url: http://www.gutenberg.org/ebooks/6646
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%82%D1%85%D0%B5%D0%BD_%D0%B8%D0%B7_%D0%93%D0%B5%D0%B9%D0%BB%D1%8C%D0%B1%D1%80%D0%BE%D0%BD%D0%BD%D0%B0,_%D0%B8%D0%BB%D0%B8_%D0%98%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE%D0%B3%D0%BD%D1%91%D0%BC
+- https://fr.wikipedia.org/wiki/La_Petite_Catherine_de_Heilbronn
+- https://de.wikipedia.org/wiki/Das_K%C3%A4thchen_von_Heilbronn
+- https://en.wikipedia.org/wiki/Das_K%C3%A4thchen_von_Heilbronn
+- https://sv.wikipedia.org/wiki/Das_K%C3%A4thchen_von_Heilbronn
