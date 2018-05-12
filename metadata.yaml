@@ -1,4 +1,8 @@
 _repo: Das-Kathchen-von-Heilbronn-Oder-die-Feuerprobe_6646
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kleist, Heinrich von
@@ -16,6 +20,8 @@ description: "Das Käthchen von Heilbronn oder Die Feuerprobe (Katie of Heilbron
   \ ein großes historisches Ritterschauspiel) in five acts by the German playwright\
   \ Heinrich von Kleist. The action of the drama takes place in Swabia during the\
   \ Middle Ages.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6646#Das-Kathchen-von-Heilbronn-Oder-die-Feuerprobe
 gutenberg_bookshelf: DE Drama
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
